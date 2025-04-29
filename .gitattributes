@@ -1,0 +1,2 @@
+delphi-12_setup.exe filter=lfs diff=lfs merge=lfs -text
+delphi-2010_setup.exe filter=lfs diff=lfs merge=lfs -text
